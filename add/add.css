@@ -1,0 +1,49 @@
+body{
+    
+    background-image: url(mohamed-sabry-ftbdZkVQTkY-unsplash.jpg);
+    background-size: cover
+    
+}
+
+
+.add{ font-size: 50px;
+font-style: italic;
+   text-align: center;
+    margin-right: 40px;
+    display: flex;
+justify-content:center;
+justify-content: space-around;
+}
+.aya {border: 5px;
+    height: 550px;
+    border: solid;
+width: 500px;
+    margin-left: 30%;
+    margin-top: 5%;
+     background-color: rgba(208, 211, 212,0.6);
+}
+
+
+.black{font-size: 20px;
+text-align:center;
+    margin-top: 25px;
+    padding-right:  50px;
+}
+
+.bl{font-size: 7px;
+    line-height: 10px;
+}
+    
+.nl{line-height: 90px;
+}
+        
+.file{
+
+    
+}
+.kalam {
+    
+    text-align: left
+    
+    
+}

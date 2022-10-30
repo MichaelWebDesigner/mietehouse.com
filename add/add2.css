@@ -1,0 +1,283 @@
+body{
+    
+    background-image: url(mohamed-sabry-ftbdZkVQTkY-unsplash.jpg);
+    background-size: cover
+}
+
+.add{ font-size: 40px;
+   text-align: center;
+    display: flex;
+justify-content:center;
+justify-content: space-around;
+}
+
+
+
+.white{
+    display: flex;
+    
+    
+}
+
+.choose{
+    margin-left: 10px;
+    font-size: 18px
+    
+     
+}
+.container {
+  padding: 16px;
+    border-radius: 15px;
+    margin-top: 20px;
+    font-size: 22px;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.registerbtn {
+  background-color: #2ea5dd;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+    border-radius: 15px;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+
+a {
+  color: dodgerblue;
+}
+
+
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+nav ul{
+    list-style: none;
+    display: flex;
+    padding-top: 5px;
+    margin-left: 650px
+    
+    
+}
+
+nav ul li{
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+        padding: 10px 15px ;
+}
+
+nav ul li a:hover{
+    background-color: #2ea5dd;
+    color: grey;
+}
+
+.navbar{
+    margin-top: s0px
+}
+
+.nn {
+    display: flex;
+    justify-content: space-between
+}
+
+
+.logo {
+    padding-left: 20px
+}
+
+.logo p{
+    font-size: 35px;
+    font-weight: 1000;
+}
+
+.logo .i{
+    color: #2ea5dd
+}
+.footer{display: flex;
+flex-direction: row;
+justify-content: space-around;
+background: rgb(184,245,246,);
+background: linear-gradient(0deg, rgba(184,245,246,1) 3%, rgba(127,151,167,1) 74%);
+height: 300px;
+    margin-top: 200px;
+}
+i{color: black;
+font-size: 35px;
+padding: 5px;
+    margin-top: 25px;
+}
+.one{margin-top: 30px;
+    
+}
+.two{margin-top: 30px;
+    margin-left: 30px
+}
+.three{margin-top: 30px;
+    margin-left: 60px
+}
+ul{margin-top: 50px;
+margin-left: 60px;
+}
+li{padding: 7px;
+}
+
+.ko {
+    
+    
+    text-decoration: none
+}
+
+
+
+
+form {
+ width: 50%;
+   margin-left: 26%;
+    margin-top: 5%
+    
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+    border-radius: 20px
+   
+  
+}
+
+button {
+  background-color: cyan;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+}
+
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.container {
+  padding: 16px;
+    background-color: rgba(208, 211, 212,0.6);
+    width: 50%;
+    margin-left: 23%;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+@media screen and (max-width: 300px) {
+  span.psw {
+    display: block;
+    float: none;
+  }
+  .cancelbtn {
+    width: 100%;
+  }
+} 
+.log {
+    text-align: center
+    
+}
+
+.loc{
+    
+    margin-top: 100px
+    
+    
+    
+    
+    
+    
+}
+.btn {
+    
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 35%;
+    border-radius: 20px;
+    background-color: lightgrey !important;
+    
+}
+
+
+
+.btn2{
+    
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+    background-color: lightgrey !important;
+    
+    
+}
+.batta {
+    
+    margin-left: 50px;
+    margin-top: 10px
+    
+}
+.batta2 {
+    
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px
+    
+}
